@@ -2,7 +2,7 @@
 
 # Installation
 1. run `npm install`
-2. then `npm run start-dev` to build and run your application
+2. then `npm run start` to build and run your application
 
 
 # Observations:
