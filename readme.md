@@ -1,4 +1,4 @@
-# This project was created following [Introdução ao ReactJS](https://web.digitalinnovation.one/course/introducao-ao-reactjs/learning/01818f0a-18b2-4023-a555-57ebefba56af/) course.
+# This project was created following the course [Introdução ao ReactJS](https://web.digitalinnovation.one/course/introducao-ao-reactjs/learning/01818f0a-18b2-4023-a555-57ebefba56af/).
 
 # Installation
 1. run `npm install`
