@@ -1,7 +1,7 @@
 {
   "name": "learningreact",
   "version": "1.0.0",
-  "description": "",
+  "description": "1. run `npm install`\r 2. then `npm run start` to build and run your application",
   "main": "index.js",
   "dependencies": {
     "eslint": "^6.8.0",
@@ -30,5 +30,14 @@
     "eslint": "eslint ./src/*.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielborgesdm/ReactReadyEnviroment.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/gabrielborgesdm/ReactReadyEnviroment/issues"
+  },
+  "homepage": "https://github.com/gabrielborgesdm/ReactReadyEnviroment#readme"
 }
