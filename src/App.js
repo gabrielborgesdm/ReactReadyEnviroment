@@ -1,7 +1,16 @@
 import React from "react"
+import List from "./components/List"
+
+
+
 function App(){
+
+
     return (
-        <h1>asdasdasd</h1>
+        <div>
+            <h1>Customers List</h1>
+            <List />
+        </div>
     )
 }
 
