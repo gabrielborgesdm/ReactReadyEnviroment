@@ -1,15 +1,15 @@
 import React from "react"
-import List from "./components/List"
+import Counter from "./components/Counter"
+import Customers from "./components/Customers"
 
 
 
 function App(){
-
-
     return (
         <div>
             <h1>Customers List</h1>
-            <List />
+            <Counter />
+            <Customers />
         </div>
     )
 }

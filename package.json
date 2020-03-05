@@ -4,10 +4,13 @@
   "description": "1. run `npm install`\r 2. then `npm run start` to build and run your application",
   "main": "index.js",
   "dependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.8.3",
     "eslint": "^6.8.0",
     "fs": "0.0.1-security",
     "react": "^16.13.0",
-    "react-dom": "^16.13.0"
+    "react-dom": "^16.13.0",
+    "react-redux": "^7.2.0",
+    "redux": "^4.0.5"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",
